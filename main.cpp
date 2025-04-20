@@ -1,7 +1,11 @@
-#include <iostream>
+/**
+ * @file main.cpp
+ * @author Tyler Stefan
+ *
+ * Main entry point for program
+ */
+#include "pch.h"
+#include "FactoryGameApp.h"
 
-int main()
-{
-    std::cout << "Hello, World!" << std::endl;
-    return 0;
-}
+wxIMPLEMENT_APP(FactoryGameApp);
+

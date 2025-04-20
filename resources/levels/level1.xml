@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level interval=".8" speed = "175.0">
+    <items>
+        <background file="levelbackground.png" />
+        <bucket/>
+        <output_machine/>
+    </items>
+</level>
